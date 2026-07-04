@@ -75,4 +75,4 @@ Nahah Butt | BS Artificial Intelligence
 
 ## 📄 License
 
-This project is for educational purposes.
+This project is for educational purposes--- Third project of Artificial Intelligence Internship.
