@@ -1,10 +1,9 @@
 # 🤖 Smart AI Recommendation System
-
-A content-based recommendation system built with **TF-IDF vectorization** and **cosine similarity**, available both as a command-line tool and a desktop GUI app (Tkinter).
+### Content-Based Recommendation Engine using TF-IDF & Cosine Similarity
 
 ## 📊 Description
 
-Enter your interests (e.g. "python ai machine learning") and the system recommends the top matching titles from a dataset, ranked by similarity score.
+Smart AI Recommendation System is a content-based recommendation engine developed as the third project of my Artificial Intelligence Internship at DecodeLabs. It uses TF-IDF Vectorization and Cosine Similarity to recommend relevant content based on a user's interests. The project includes both a command-line application and a Tkinter-based desktop GUI.
 
 ## ✨ Features
 
@@ -28,6 +27,15 @@ ai-recommendation-system/
 └── README.md
 ```
 
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- Scikit-learn
+- TF-IDF Vectorizer
+- Cosine Similarity
+- Tkinter
+- CSV
 ## 🛠️ Requirements
 
 ```bash
@@ -69,10 +77,31 @@ Match : 87.32 %
 3. Cosine similarity is calculated between the user's input and every item's tags
 4. Results are sorted by similarity score and the top matches (score > 0) are returned
 
-## 👤 Author
+## 📚 Learning Outcomes
 
-Nahah Butt | BS Artificial Intelligence
+- Content-Based Recommendation Systems
+- Natural Language Processing (TF-IDF)
+- Cosine Similarity
+- GUI Development with Tkinter
+- File Handling
+- Python OOP
 
+## 🚀 Future Improvements
+
+- User Login System
+- Recommendation History Database
+- Collaborative Filtering
+- Web Application using Flask
+- Image-based Recommendations
+
+
+## 👩‍💻 Author
+
+**Nahah Butt**
+
+BS Artificial Intelligence
+
+Python Developer Intern @ DecodeLabs
 ## 📄 License
 
-This project is for educational purposes--- Third project of Artificial Intelligence Internship.
+This project was developed for educational purposes as the **third project** of my Artificial Intelligence Internship at DecodeLabs.
